@@ -73,6 +73,8 @@ http://de.thefreedictionary.com/
 https://www.linguee.com/english-german  
 http://woerterbuchnetz.de  
 https://dict.leo.org/englisch-deutsch/  
+https://en.langenscheidt.com/  
+https://www.dwds.de/  
 
 ### Vocabulary
 
