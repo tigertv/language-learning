@@ -80,3 +80,28 @@ https://www.dwds.de/
 
 http://www.languagedaily.com/learn-german/vocabulary  
 
+
+## Chinese 
+
+### Grammar
+
+https://resources.allsetlearning.com/chinese/grammar/Word_order  
+http://www.chinese-grammar.com/beginner/  
+https://www.chinese-tools.com/  
+https://www.101languages.net/chinese/  
+
+### Characters
+
+https://en.wikipedia.org/wiki/Kangxi_radical  
+https://www.mdbg.net/chinese/dictionary?page=radicals
+https://www.learnchineseez.com/  
+
+### Dictionary
+
+https://chinesepod.com/dictionary/english-chinese/  
+http://dict.cn/  
+http://www.websaru.com/  
+https://www.chineseclass101.com/chinese-dictionary/  
+https://www.mdbg.net/chinese/dictionary  
+
+
