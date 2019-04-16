@@ -93,7 +93,7 @@ https://www.101languages.net/chinese/
 ### Characters
 
 https://en.wikipedia.org/wiki/Kangxi_radical  
-https://www.mdbg.net/chinese/dictionary?page=radicals
+https://www.mdbg.net/chinese/dictionary?page=radicals  
 https://www.learnchineseez.com/  
 
 ### Dictionary
