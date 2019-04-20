@@ -19,6 +19,7 @@ http://www.learnalanguage.com/
 http://www.bbc.co.uk/languages/other/quickfix/  
 https://www.thoughtco.com/languages-4133094  
 http://speak7.com/  
+https://www.duolingo.com/  
 
 ### Dictionaries
 
