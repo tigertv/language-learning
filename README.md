@@ -26,6 +26,8 @@ https://www.duolingo.com/
 https://www.101languages.net/dictionaries/  
 https://www.indifferentlanguages.com/  
 http://www.wordreference.com/  
+https://en.wikipedia.org/wiki/List_of_Wiktionaries  
+
 
 ### Texts
 
@@ -36,6 +38,11 @@ https://www.odaha.com/antoine-de-saint-exupery/maly-princ/the-little-prince
 
 https://forvo.com/  
 https://rhinospike.com/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Category:Swadesh_lists_by_language  
+
 
 ## German
 
@@ -63,7 +70,7 @@ http://www.verbix.com/languages/german.html
 https://www.verbformen.com/  
 https://conjd.cactus2000.de/index.en.php  
 
-### Dictionary
+### Dictionaries
 
 https://www.duden.de/  
 https://www.dict.cc/  
@@ -76,10 +83,14 @@ http://woerterbuchnetz.de
 https://dict.leo.org/englisch-deutsch/  
 https://en.langenscheidt.com/  
 https://www.dwds.de/  
+https://de.wiktionary.org/wiki/Wiktionary:Hauptseite  
+
 
 ### Vocabulary
 
 http://www.languagedaily.com/learn-german/vocabulary  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Appendix:German_Swadesh_list  
 
 
 ## Chinese 
@@ -95,14 +106,29 @@ https://www.101languages.net/chinese/
 
 https://en.wikipedia.org/wiki/Kangxi_radical  
 https://www.mdbg.net/chinese/dictionary?page=radicals  
+https://en.wiktionary.org/wiki/Index:Chinese_radical  
 https://www.learnchineseez.com/  
 
-### Dictionary
+### Dictionaries
 
 https://chinesepod.com/dictionary/english-chinese/  
-http://dict.cn/  
+https://dict.cn/  
 http://www.websaru.com/  
 https://www.chineseclass101.com/chinese-dictionary/  
 https://www.mdbg.net/chinese/dictionary  
+https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5  
+https://baike.baidu.com/  
+
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists  
+https://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words  
+https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list  
+
+### Pronunciation
+
+https://resources.allsetlearning.com/chinese/pronunciation/  
+
 
 
