@@ -27,6 +27,7 @@ https://www.101languages.net/dictionaries/
 https://www.indifferentlanguages.com/  
 http://www.wordreference.com/  
 https://en.wikipedia.org/wiki/List_of_Wiktionaries  
+https://glosbe.com/  
 
 
 ### Texts
