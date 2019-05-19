@@ -132,4 +132,37 @@ https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list
 https://resources.allsetlearning.com/chinese/pronunciation/  
 
 
+## Spanish
+
+### Grammar
+
+https://espanol.lingolia.com/en/
+http://spanish.speak7.com/
+https://ielanguages.com/spanish.html
+https://www.bbc.com/bitesize/subjects/z4dqxnb
+
+### Verb conjugation
+
+http://www.verbix.com/languages/spanish.html
+https://www.spanishdict.com/
+
+### Dictionaries
+
+https://dle.rae.es/
+https://www.wordreference.com/definicion/
+https://www.spanishdict.com/
+https://www.101languages.net/spanish/spanish-english-dictionary/
+http://www.wordreference.com/enes/  
+http://es.thefreedictionary.com/
+https://www.linguee.com/english-spanish
+https://servicios.elpais.com/diccionarios/
+https://es.wiktionary.org/wiki/Wikcionario:Portada
+https://dem.colmex.mx/
+https://www.linguee.es/
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Spanish_Swadesh_list
+https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
+https://es.wikipedia.org/wiki/Lista_Swadesh
 
