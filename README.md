@@ -28,6 +28,7 @@ https://www.indifferentlanguages.com/
 http://www.wordreference.com/  
 https://en.wikipedia.org/wiki/List_of_Wiktionaries  
 https://glosbe.com/  
+https://www.contdict.com/
 
 
 ### Texts
