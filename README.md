@@ -92,6 +92,7 @@ https://de.wiktionary.org/wiki/Wiktionary:Hauptseite
 http://www.languagedaily.com/learn-german/vocabulary  
 https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
 https://en.wiktionary.org/wiki/Appendix:German_Swadesh_list  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#German
 
 
 ## Chinese 
@@ -120,16 +121,15 @@ https://www.mdbg.net/chinese/dictionary
 https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5  
 https://baike.baidu.com/  
 
-
-### Vocabulary
-
-https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists  
-https://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words  
-https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list  
-
 ### Pronunciation
 
 https://resources.allsetlearning.com/chinese/pronunciation/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Mandarin
 
 
 ## Spanish
@@ -165,4 +165,5 @@ https://www.linguee.es/
 https://en.wiktionary.org/wiki/Appendix:Spanish_Swadesh_list
 https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
 https://es.wikipedia.org/wiki/Lista_Swadesh
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Spanish
 
