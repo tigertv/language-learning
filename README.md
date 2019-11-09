@@ -28,7 +28,7 @@ https://www.indifferentlanguages.com/
 http://www.wordreference.com/  
 https://en.wikipedia.org/wiki/List_of_Wiktionaries  
 https://glosbe.com/  
-https://www.contdict.com/
+https://www.contdict.com/  
 
 
 ### Texts
@@ -50,10 +50,10 @@ https://en.wiktionary.org/wiki/Category:Swadesh_lists_by_language
 
 ### Grammar
 
-https://deutsch.lingolia.com/en/  
+https://deutsch.lingolia.com/en/    
 https://www.deutschplus.net/  
 http://www.grammatikdeutsch.de/  
-https://www.deutsch-lernen.com
+https://www.deutsch-lernen.com/  
 https://www.germanveryeasy.com/  
 http://germanforenglishspeakers.com/  
 http://german.speak7.com/  
@@ -93,7 +93,7 @@ https://de.wiktionary.org/wiki/Wiktionary:Hauptseite
 http://www.languagedaily.com/learn-german/vocabulary  
 https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
 https://en.wiktionary.org/wiki/Appendix:German_Swadesh_list  
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#German
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#German  
 
 
 ## Chinese 
@@ -129,42 +129,42 @@ https://resources.allsetlearning.com/chinese/pronunciation/
 ### Vocabulary
 
 https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list  
-https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Mandarin
+https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Mandarin  
 
 
 ## Spanish
 
 ### Grammar
 
-https://espanol.lingolia.com/en/
-http://spanish.speak7.com/
-https://ielanguages.com/spanish.html
-https://www.bbc.com/bitesize/subjects/z4dqxnb
+https://espanol.lingolia.com/en/  
+http://spanish.speak7.com/  
+https://ielanguages.com/spanish.html  
+https://www.bbc.com/bitesize/subjects/z4dqxnb  
 
 ### Verb conjugation
 
-http://www.verbix.com/languages/spanish.html
-https://www.spanishdict.com/
+http://www.verbix.com/languages/spanish.html  
+https://www.spanishdict.com/  
 
 ### Dictionaries
 
-https://dle.rae.es/
-https://www.wordreference.com/definicion/
-https://www.spanishdict.com/
-https://www.101languages.net/spanish/spanish-english-dictionary/
+https://dle.rae.es/  
+https://www.wordreference.com/definicion/  
+https://www.spanishdict.com/  
+https://www.101languages.net/spanish/spanish-english-dictionary/  
 http://www.wordreference.com/enes/  
-http://es.thefreedictionary.com/
-https://www.linguee.com/english-spanish
-https://servicios.elpais.com/diccionarios/
-https://es.wiktionary.org/wiki/Wikcionario:Portada
-https://dem.colmex.mx/
-https://www.linguee.es/
+http://es.thefreedictionary.com/  
+https://www.linguee.com/english-spanish  
+https://servicios.elpais.com/diccionarios/  
+https://es.wiktionary.org/wiki/Wikcionario:Portada  
+https://dem.colmex.mx/  
+https://www.linguee.es/  
 
 ### Vocabulary
 
-https://en.wiktionary.org/wiki/Appendix:Spanish_Swadesh_list
-https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
-https://es.wikipedia.org/wiki/Lista_Swadesh
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Spanish
+https://en.wiktionary.org/wiki/Appendix:Spanish_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists  
+https://es.wikipedia.org/wiki/Lista_Swadesh  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Spanish  
 
