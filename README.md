@@ -95,7 +95,6 @@ https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists
 https://en.wiktionary.org/wiki/Appendix:German_Swadesh_list  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#German  
 
-
 ## Chinese 
 
 ### Grammar
@@ -132,6 +131,40 @@ https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list
 https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Mandarin  
 
+
+## Japanese
+
+### Grammar
+
+https://en.wikibooks.org/wiki/Japanese/Grammar
+https://www.wasabi-jpn.com/japanese-grammar/japanese-word-order/
+https://www.thoughtco.com/japanese-4133062
+https://8020japanese.com/japanese-sentence-structure/
+https://pomax.github.io/nrGrammar/
+https://www.tofugu.com/japanese/
+https://www.tofugu.com/japanese/goroawase-japanese-numbers-wordplay/
+
+### Characters
+
+http://www.kanjidamage.com/ 
+https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonics-chart.jpg 
+https://www.tofugu.com/japanese/kanji-radicals-mnemonic-method/#radicals-the-building-blocks-of-kanji 
+https://www.tanoshiijapanese.com/lessons/vocabulary_lessons.cfm 
+http://www.genetickanji.com/ 
+http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/hiragana/mnemonic-hiragana.html 
+http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/katakana/mnemonic-katakana.html 
+
+### Dictionaries
+
+https://jisho.org/ 
+https://www.japandict.com/ 
+
+### Pronunciation
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list 
+https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list_(extended) 
 
 ## Spanish
 
