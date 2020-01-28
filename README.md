@@ -202,3 +202,41 @@ https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
 https://es.wikipedia.org/wiki/Lista_Swadesh  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Spanish  
 
+## Italian
+
+### Grammar
+
+http://italian.speak7.com/  
+https://ielanguages.com/italian.html  
+http://www.italianlanguageguide.com/grammar/  
+http://www.oneworlditaliano.com/english/home.htm  
+https://grammar.collinsdictionary.com/italian-easy-learning  
+http://ilovelanguages.org/italian_grammar.php  
+http://www.locuta.com/eclassroom_gramm.html  
+http://parliamoitaliano.altervista.org/  
+https://www.lagrammaticaitaliana.it/  
+http://www.grammatica-italiana.it/  
+https://grammatica-italiana.dossier.net/  
+
+### Verb conjugation
+
+https://www.italian-verbs.com/  
+https://www.verbi-italiani.info/en/  
+https://www.verbix.com/languages/italian.html  
+
+### Dictionaries
+
+https://www.dizionario-italiano.it/  
+https://www.grandidizionari.it/  
+http://www.sapere.it/sapere/dizionari.html  
+http://www.treccani.it/vocabolario/  
+https://dizionari.repubblica.it/  
+https://www.101languages.net/italian/italian-english-dictionary/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Italian_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists  
+https://it.wikipedia.org/wiki/Lista_di_Swadesh  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Italian  
+
