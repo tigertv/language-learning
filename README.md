@@ -75,6 +75,7 @@ https://conjd.cactus2000.de/index.en.php
 ### Dictionaries
 
 https://www.duden.de/  
+https://www.dwds.de/  
 https://www.dict.cc/  
 https://www.101languages.net/german/german-english-dictionary/  
 http://www.wordreference.com/ende/  
@@ -86,7 +87,7 @@ https://dict.leo.org/englisch-deutsch/
 https://en.langenscheidt.com/  
 https://www.dwds.de/  
 https://de.wiktionary.org/wiki/Wiktionary:Hauptseite  
-
+https://www.collinsdictionary.com/dictionary/german-english/  
 
 ### Vocabulary
 
