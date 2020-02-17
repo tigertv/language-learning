@@ -85,7 +85,6 @@ https://www.linguee.com/english-german
 http://woerterbuchnetz.de  
 https://dict.leo.org/englisch-deutsch/  
 https://en.langenscheidt.com/  
-https://www.dwds.de/  
 https://de.wiktionary.org/wiki/Wiktionary:Hauptseite  
 https://www.collinsdictionary.com/dictionary/german-english/  
 
