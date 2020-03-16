@@ -240,3 +240,48 @@ https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
 https://it.wikipedia.org/wiki/Lista_di_Swadesh  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Italian  
 
+
+## French
+
+### Grammar
+
+https://francais.lingolia.com/en/grammar  
+http://french.speak7.com/  
+http://www.frenchlanguageguide.com/grammar/  
+
+### Verb conjugation
+
+http://www.conjugation-fr.com/  
+https://francais.lingolia.com/en/grammar/conjugator  
+https://leconjugueur.lefigaro.fr/ukindex.php  
+https://www.verbix.com/languages/french.html  
+https://www.vocabulix.com/conjugation/French-Verbs.html  
+https://www.the-conjugation.com/french/  
+http://les-verbes.com/  
+http://www.verb2verbe.com/  
+https://la-conjugaison.nouvelobs.com/  
+https://www.lalanguefrancaise.com/conjugaison/  
+
+### Dictionaries
+
+https://www.larousse.fr/dictionnaires/francais-monolingue/  
+http://www.dictionary-fr.com/  
+https://www.cnrtl.fr/definition/  
+https://langue-francaise.tv5monde.com/decouvrir/dictionnaire  
+https://www.lepointdufle.net/p/dictionnaire.htm  
+http://dictionnaire.sensagent.leparisien.fr/index.html  
+https://www.linternaute.fr/dictionnaire/fr/  
+https://www.lalanguefrancaise.com/dictionnaire/  
+https://dvlf.uchicago.edu/  
+https://www.le-dictionnaire.com/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:French_Swadesh_list  
+https://fr.wiktionary.org/wiki/Wiktionnaire:Liste_Swadesh  
+https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists  
+https://fr.wikipedia.org/wiki/Liste_Swadesh  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#French  
+https://fr.wiktionary.org/wiki/Wiktionnaire:Listes_de_fr%C3%A9quence#Fran%C3%A7ais  
+
+
