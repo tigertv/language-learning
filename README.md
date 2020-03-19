@@ -232,7 +232,6 @@ http://www.sapere.it/sapere/dizionari.html
 http://www.treccani.it/vocabolario/  
 https://dizionari.repubblica.it/  
 https://www.101languages.net/italian/italian-english-dictionary/  
-https://dicionario.priberam.org/  
 
 ### Vocabulary
 
@@ -284,5 +283,32 @@ https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists
 https://fr.wikipedia.org/wiki/Liste_Swadesh  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#French  
 https://fr.wiktionary.org/wiki/Wiktionnaire:Listes_de_fr%C3%A9quence#Fran%C3%A7ais  
+
+
+## Portuguese
+
+### Grammar
+
+http://www.aulete.com.br/site.php?mdl=gramatica  
+
+### Verb conjugation
+
+https://www.verbix.com/languages/portuguese.html  
+
+### Dictionaries
+
+https://www.dicio.com.br/  
+https://dicionario.priberam.org/  
+https://www.infopedia.pt/dicionarios/lingua-portuguesa  
+http://michaelis.uol.com.br/moderno-portugues/  
+https://dicionariocriativo.com.br/  
+http://www.aulete.com.br/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Portuguese_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists  
+https://pt.wikipedia.org/wiki/Lista_de_Swadesh  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Portuguese  
 
 
