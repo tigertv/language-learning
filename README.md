@@ -232,6 +232,7 @@ http://www.sapere.it/sapere/dizionari.html
 http://www.treccani.it/vocabolario/  
 https://dizionari.repubblica.it/  
 https://www.101languages.net/italian/italian-english-dictionary/  
+https://dicionario.priberam.org/  
 
 ### Vocabulary
 
