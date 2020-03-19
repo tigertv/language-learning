@@ -303,6 +303,7 @@ https://www.infopedia.pt/dicionarios/lingua-portuguesa
 http://michaelis.uol.com.br/moderno-portugues/  
 https://dicionariocriativo.com.br/  
 http://www.aulete.com.br/  
+https://www.dicionarioinformal.com.br/  
 
 ### Vocabulary
 
