@@ -313,3 +313,30 @@ https://pt.wikipedia.org/wiki/Lista_de_Swadesh
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Portuguese  
 
 
+## Danish
+
+### Grammar
+
+https://en.wikipedia.org/wiki/Danish_grammar  
+http://fjern-uv.dk/gramma.php  
+http://fjern.egl.ku.dk/quiz/index.php?directory_id=72  
+http://grunnskoli.seltjarnarnes.is/myro/dansk/grammatik.htm  
+https://danskherognu.dk/intro  
+
+### Verb conjugation
+
+https://www.verbix.com/languages/danish.html  
+
+### Dictionaries
+
+https://ordnet.dk/  
+https://www.ordbogen.com/en/  
+https://sproget.dk/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Danish_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Danish  
+
+
