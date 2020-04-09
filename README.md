@@ -1,5 +1,17 @@
 # Free Language Learning Resources
 
+## Languages
+
+- [Polyglots](#polyglots)
+- [German](#german)
+- [Chinese](#chinese)
+- [Japanese](#japanese)
+- [Spanish](#spanish)
+- [Italian](#italian)
+- [French](#french)
+- [Portuguese](#portuguese)
+- [Danish](#danish)
+
 ## Polyglots
 
 ### Grammar
