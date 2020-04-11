@@ -11,6 +11,7 @@
 - [French](#french)
 - [Portuguese](#portuguese)
 - [Danish](#danish)
+- [Dutch](#dutch)
 
 ## Polyglots
 
@@ -350,5 +351,38 @@ https://sproget.dk/
 https://en.wiktionary.org/wiki/Appendix:Danish_Swadesh_list  
 https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Danish  
+
+
+## Dutch
+
+### Grammar
+
+https://en.wikipedia.org/wiki/Dutch_grammar  
+https://www.grammatiken.de/niederlaendische-grammatik-online-lernen/?id=Grammar01  
+http://www.dutchgrammar.com/  
+http://www.dutchgrammar.com/nl/  
+https://nl.wikibooks.org/wiki/Nederlands/Grammatica  
+https://ikschrijfbeter.nl/grammatica  
+https://ielanguages.com/dutch.html   
+
+### Verb conjugation
+
+https://www.verbix.com/languages/dutch.html  
+
+### Dictionaries
+
+https://www.woorden.org/  
+https://www.mijnwoordenboek.nl/  
+https://www.encyclo.nl/  
+https://www.vertalen.nu/  
+https://www.vandale.nl/opzoeken  
+
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Dutch_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Appendix:Frisian,_Dutch_and_German_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Dutch  
 
 
