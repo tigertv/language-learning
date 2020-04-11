@@ -3,15 +3,18 @@
 ## Languages
 
 - [Polyglots](#polyglots)
-- [German](#german)
-- [Chinese](#chinese)
-- [Japanese](#japanese)
-- [Spanish](#spanish)
-- [Italian](#italian)
-- [French](#french)
-- [Portuguese](#portuguese)
-- [Danish](#danish)
-- [Dutch](#dutch)
+- Germanic
+  - [German](#german)
+  - [Danish](#danish)
+  - [Dutch](#dutch)
+- Romance
+  - [Spanish](#spanish)
+  - [Italian](#italian)
+  - [French](#french)
+  - [Portuguese](#portuguese)
+- Others
+  - [Chinese](#chinese)
+  - [Japanese](#japanese)
 
 ## Polyglots
 
