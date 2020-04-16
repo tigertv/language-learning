@@ -7,6 +7,7 @@
   - [German](#german)
   - [Danish](#danish)
   - [Dutch](#dutch)
+  - [Swedish](#swedish)
 - Romance
   - [Spanish](#spanish)
   - [Italian](#italian)
@@ -387,5 +388,33 @@ https://en.wiktionary.org/wiki/Appendix:Dutch_Swadesh_list
 https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
 https://en.wiktionary.org/wiki/Appendix:Frisian,_Dutch_and_German_Swadesh_lists  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Dutch  
+
+
+## Swedish
+
+### Grammar
+
+https://sv.wikipedia.org/wiki/Svensk_grammatik  
+http://www.ordklasser.se/grammatik.php  
+http://blog.lardigsvenska.com/p/grammar.html  
+https://www.worddive.com/grammar/sv/svensk-grammatik/  
+
+### Verb conjugation
+
+https://www.verbix.com/languages/swedish.html  
+
+### Dictionaries
+
+https://svenska.se/  
+https://www.saob.se/  
+https://spraakbanken.gu.se/karp/#?mode=dalin  
+https://folkmun.se/  
+http://www.slangopedia.se/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Swedish_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Swedish  
 
 
