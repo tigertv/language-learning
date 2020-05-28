@@ -70,7 +70,6 @@ https://en.wiktionary.org/wiki/Category:Swadesh_lists_by_language
 
 https://deutsch.lingolia.com/en/    
 https://www.deutschplus.net/  
-http://www.grammatikdeutsch.de/  
 https://www.deutsch-lernen.com/  
 https://www.germanveryeasy.com/  
 http://germanforenglishspeakers.com/  
@@ -82,7 +81,10 @@ https://www.thoughtco.com/german-grammar-4133067
 https://www.dw.com/en/learn-german/s-2469  
 https://learngerman.dw.com/de/grammar  
 https://www.learn-german-smarter.com/  
-https://www.bbc.com/bitesize/topics/zk92tfr  
+https://www.bbc.co.uk/bitesize/topics/zk92tfr  
+https://deutschlernerblog.de/grammatik-deutsch-lernen/  
+https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm  
+
 
 ### Verb conjugation
 
