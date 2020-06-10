@@ -52,7 +52,14 @@ https://www.contdict.com/
 ### Texts
 
 http://www.laetaprinco.org/  
-https://www.odaha.com/antoine-de-saint-exupery/maly-princ/the-little-prince   
+https://www.odaha.com/antoine-de-saint-exupery/maly-princ/the-little-prince  
+https://www.thefablecottage.com/  
+http://en.childrenslibrary.org/  
+https://www.grimmstories.com/  
+https://www.andersenstories.com/  
+https://worldstories.org.uk/library  
+https://www.lonweb.org/  
+
 
 ### Pronunciation
 
