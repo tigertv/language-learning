@@ -8,6 +8,7 @@
   - [Danish](#danish)
   - [Dutch](#dutch)
   - [Swedish](#swedish)
+  - [Norwegian](#norwegian)
 - Romance
   - [Spanish](#spanish)
   - [Italian](#italian)
@@ -122,76 +123,123 @@ https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists
 https://en.wiktionary.org/wiki/Appendix:German_Swadesh_list  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#German  
 
-## Chinese 
+
+## Danish
 
 ### Grammar
 
-https://resources.allsetlearning.com/chinese/grammar/Word_order  
-http://www.chinese-grammar.com/beginner/  
-https://www.chinese-tools.com/  
-https://www.101languages.net/chinese/  
+https://en.wikipedia.org/wiki/Danish_grammar  
+http://fjern-uv.dk/gramma.php  
+http://fjern.egl.ku.dk/quiz/index.php?directory_id=72  
+http://grunnskoli.seltjarnarnes.is/myro/dansk/grammatik.htm  
+https://danskherognu.dk/intro  
 
-### Characters
+### Verb conjugation
 
-https://en.wikipedia.org/wiki/Kangxi_radical  
-https://www.mdbg.net/chinese/dictionary?page=radicals  
-https://en.wiktionary.org/wiki/Index:Chinese_radical  
-https://www.learnchineseez.com/  
+https://www.verbix.com/languages/danish.html  
 
 ### Dictionaries
 
-https://chinesepod.com/dictionary/english-chinese/  
-https://dict.cn/  
-http://www.websaru.com/  
-https://www.chineseclass101.com/chinese-dictionary/  
-https://www.mdbg.net/chinese/dictionary  
-https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5  
-https://baike.baidu.com/  
-
-### Pronunciation
-
-https://resources.allsetlearning.com/chinese/pronunciation/  
+https://ordnet.dk/  
+https://www.ordbogen.com/en/  
+https://sproget.dk/  
 
 ### Vocabulary
 
-https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list  
-https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists  
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Mandarin  
+https://en.wiktionary.org/wiki/Appendix:Danish_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Danish  
 
 
-## Japanese
+## Dutch
 
 ### Grammar
 
-https://en.wikibooks.org/wiki/Japanese/Grammar  
-https://www.wasabi-jpn.com/japanese-grammar/japanese-word-order/  
-https://www.thoughtco.com/japanese-4133062  
-https://8020japanese.com/japanese-sentence-structure/  
-https://pomax.github.io/nrGrammar/  
-https://www.tofugu.com/japanese/  
-https://www.tofugu.com/japanese/goroawase-japanese-numbers-wordplay/  
+https://en.wikipedia.org/wiki/Dutch_grammar  
+https://www.grammatiken.de/niederlaendische-grammatik-online-lernen/?id=Grammar01  
+http://www.dutchgrammar.com/  
+http://www.dutchgrammar.com/nl/  
+https://nl.wikibooks.org/wiki/Nederlands/Grammatica  
+https://ikschrijfbeter.nl/grammatica  
+https://ielanguages.com/dutch.html   
 
-### Characters
+### Verb conjugation
 
-http://www.kanjidamage.com/   
-https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonics-chart.jpg   
-https://www.tofugu.com/japanese/kanji-radicals-mnemonic-method/#radicals-the-building-blocks-of-kanji   
-https://www.tanoshiijapanese.com/lessons/vocabulary_lessons.cfm   
-http://www.genetickanji.com/   
-http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/hiragana/mnemonic-hiragana.html   
-http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/katakana/mnemonic-katakana.html   
+https://www.verbix.com/languages/dutch.html  
 
 ### Dictionaries
 
-https://jisho.org/   
-https://www.japandict.com/   
+https://www.woorden.org/  
+https://www.mijnwoordenboek.nl/  
+https://www.encyclo.nl/  
+https://www.vertalen.nu/  
+https://www.vandale.nl/opzoeken  
 
-### Pronunciation
 
 ### Vocabulary
 
-https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list   
-https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list_(extended)   
+https://en.wiktionary.org/wiki/Appendix:Dutch_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Appendix:Frisian,_Dutch_and_German_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Dutch  
+
+
+## Swedish
+
+### Grammar
+
+https://sv.wikipedia.org/wiki/Svensk_grammatik  
+http://www.ordklasser.se/grammatik.php  
+http://blog.lardigsvenska.com/p/grammar.html  
+https://www.worddive.com/grammar/sv/svensk-grammatik/  
+
+### Verb conjugation
+
+https://www.verbix.com/languages/swedish.html  
+
+### Dictionaries
+
+https://svenska.se/  
+https://www.saob.se/  
+https://spraakbanken.gu.se/karp/#?mode=dalin  
+https://folkmun.se/  
+http://www.slangopedia.se/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Swedish_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Swedish  
+
+
+## Norwegian
+
+### Grammar
+
+https://nn.wikipedia.org/wiki/Norsk  
+https://no.wikipedia.org/wiki/Norsk  
+https://www.ntnu.edu/web/now/1/grammar  
+https://www.ntnu.edu/web/now2/info/velkommen  
+https://typecraft.org/tc2wiki/A_Norwegian_Grammar_Sparrer  
+https://www.riksmalsforbundet.no/grammatikk-en-innforing/  
+
+### Verb conjugation
+
+https://www.verbix.com/languages/norwegian.html  
+
+### Dictionaries
+
+https://ordbok.uib.no/  
+https://naob.no/  
+https://snl.no/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Bokm%C3%A5l_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Nynorsk_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Norwegian  
+
 
 ## Spanish
 
@@ -344,91 +392,74 @@ https://pt.wikipedia.org/wiki/Lista_de_Swadesh
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Portuguese  
 
 
-## Danish
+## Chinese 
 
 ### Grammar
 
-https://en.wikipedia.org/wiki/Danish_grammar  
-http://fjern-uv.dk/gramma.php  
-http://fjern.egl.ku.dk/quiz/index.php?directory_id=72  
-http://grunnskoli.seltjarnarnes.is/myro/dansk/grammatik.htm  
-https://danskherognu.dk/intro  
+https://resources.allsetlearning.com/chinese/grammar/Word_order  
+http://www.chinese-grammar.com/beginner/  
+https://www.chinese-tools.com/  
+https://www.101languages.net/chinese/  
 
-### Verb conjugation
+### Characters
 
-https://www.verbix.com/languages/danish.html  
+https://en.wikipedia.org/wiki/Kangxi_radical  
+https://www.mdbg.net/chinese/dictionary?page=radicals  
+https://en.wiktionary.org/wiki/Index:Chinese_radical  
+https://www.learnchineseez.com/  
 
 ### Dictionaries
 
-https://ordnet.dk/  
-https://www.ordbogen.com/en/  
-https://sproget.dk/  
+https://chinesepod.com/dictionary/english-chinese/  
+https://dict.cn/  
+http://www.websaru.com/  
+https://www.chineseclass101.com/chinese-dictionary/  
+https://www.mdbg.net/chinese/dictionary  
+https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5  
+https://baike.baidu.com/  
+
+### Pronunciation
+
+https://resources.allsetlearning.com/chinese/pronunciation/  
 
 ### Vocabulary
 
-https://en.wiktionary.org/wiki/Appendix:Danish_Swadesh_list  
-https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Danish  
+https://en.wiktionary.org/wiki/Appendix:Mandarin_Swadesh_list  
+https://en.wiktionary.org/wiki/Appendix:Sino-Tibetan_Swadesh_lists  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Mandarin  
 
 
-## Dutch
+## Japanese
 
 ### Grammar
 
-https://en.wikipedia.org/wiki/Dutch_grammar  
-https://www.grammatiken.de/niederlaendische-grammatik-online-lernen/?id=Grammar01  
-http://www.dutchgrammar.com/  
-http://www.dutchgrammar.com/nl/  
-https://nl.wikibooks.org/wiki/Nederlands/Grammatica  
-https://ikschrijfbeter.nl/grammatica  
-https://ielanguages.com/dutch.html   
+https://en.wikibooks.org/wiki/Japanese/Grammar  
+https://www.wasabi-jpn.com/japanese-grammar/japanese-word-order/  
+https://www.thoughtco.com/japanese-4133062  
+https://8020japanese.com/japanese-sentence-structure/  
+https://pomax.github.io/nrGrammar/  
+https://www.tofugu.com/japanese/  
+https://www.tofugu.com/japanese/goroawase-japanese-numbers-wordplay/  
 
-### Verb conjugation
+### Characters
 
-https://www.verbix.com/languages/dutch.html  
-
-### Dictionaries
-
-https://www.woorden.org/  
-https://www.mijnwoordenboek.nl/  
-https://www.encyclo.nl/  
-https://www.vertalen.nu/  
-https://www.vandale.nl/opzoeken  
-
-
-### Vocabulary
-
-https://en.wiktionary.org/wiki/Appendix:Dutch_Swadesh_list  
-https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
-https://en.wiktionary.org/wiki/Appendix:Frisian,_Dutch_and_German_Swadesh_lists  
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Dutch  
-
-
-## Swedish
-
-### Grammar
-
-https://sv.wikipedia.org/wiki/Svensk_grammatik  
-http://www.ordklasser.se/grammatik.php  
-http://blog.lardigsvenska.com/p/grammar.html  
-https://www.worddive.com/grammar/sv/svensk-grammatik/  
-
-### Verb conjugation
-
-https://www.verbix.com/languages/swedish.html  
+http://www.kanjidamage.com/   
+https://files.tofugu.com/articles/japanese/2016-03-07-hiragana-mnemonics-chart/hiragana-mnemonics-chart.jpg   
+https://www.tofugu.com/japanese/kanji-radicals-mnemonic-method/#radicals-the-building-blocks-of-kanji   
+https://www.tanoshiijapanese.com/lessons/vocabulary_lessons.cfm   
+http://www.genetickanji.com/   
+http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/hiragana/mnemonic-hiragana.html   
+http://japanese.gatech.edu/WebCTVista/JAPN1001/contents/Lesson02/katakana/mnemonic-katakana.html   
 
 ### Dictionaries
 
-https://svenska.se/  
-https://www.saob.se/  
-https://spraakbanken.gu.se/karp/#?mode=dalin  
-https://folkmun.se/  
-http://www.slangopedia.se/  
+https://jisho.org/   
+https://www.japandict.com/   
+
+### Pronunciation
 
 ### Vocabulary
 
-https://en.wiktionary.org/wiki/Appendix:Swedish_Swadesh_list  
-https://en.wiktionary.org/wiki/Appendix:Germanic_Swadesh_lists  
-https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Swedish  
-
+https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list   
+https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list_(extended)   
 
