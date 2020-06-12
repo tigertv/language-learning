@@ -39,6 +39,7 @@ https://www.thoughtco.com/languages-4133094
 http://speak7.com/  
 https://www.duolingo.com/  
 https://www.lingohut.com/  
+https://www.german-grammar.de/  - there are many other language sites  
 
 ### Dictionaries
 
@@ -92,6 +93,7 @@ https://www.learn-german-smarter.com/
 https://www.bbc.co.uk/bitesize/topics/zk92tfr  
 https://deutschlernerblog.de/grammatik-deutsch-lernen/  
 https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm  
+https://www.german-grammar.de/  
 
 
 ### Verb conjugation
