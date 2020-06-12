@@ -412,7 +412,6 @@ https://www.learnchineseez.com/
 
 https://chinesepod.com/dictionary/english-chinese/  
 https://dict.cn/  
-http://www.websaru.com/  
 https://www.chineseclass101.com/chinese-dictionary/  
 https://www.mdbg.net/chinese/dictionary  
 https://zh.wiktionary.org/wiki/Wiktionary:%E9%A6%96%E9%A1%B5  
