@@ -252,6 +252,8 @@ https://espanol.lingolia.com/en/
 http://spanish.speak7.com/  
 https://ielanguages.com/spanish.html  
 https://www.bbc.com/bitesize/subjects/z4dqxnb  
+http://www.hispanoteca.eu/Gram%C3%A1ticas/GRAMMATIK%20SPANISCH.htm  
+
 
 ### Verb conjugation
 
