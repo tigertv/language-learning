@@ -14,6 +14,8 @@
   - [Italian](#italian)
   - [French](#french)
   - [Portuguese](#portuguese)
+- Turkic
+  - [Turkish](#turkish)
 - Others
   - [Chinese](#chinese)
   - [Japanese](#japanese)
@@ -394,6 +396,32 @@ https://en.wiktionary.org/wiki/Appendix:Portuguese_Swadesh_list
 https://en.wiktionary.org/wiki/Appendix:Romance_Swadesh_lists  
 https://pt.wikipedia.org/wiki/Lista_de_Swadesh  
 https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Portuguese  
+
+
+## Turkish 
+
+### Grammar
+
+http://www.turkishclass.com/turkish/lessons/turkish_classes.php  
+https://www.turkishexplained.com/  
+https://en.wikipedia.org/wiki/Turkish_grammar  
+https://cromwell-intl.com/turkish/  
+
+### Verb conjugation
+
+https://cooljugator.com/tr  
+https://www.verbix.com/languages/turkish.html  
+
+### Dictionaries
+
+https://sozluk.gov.tr/  
+https://www.seslisozluk.net/  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Turkic_Swadesh_lists  
+https://en.wiktionary.org/wiki/Appendix:Turkish_Swadesh_list  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Turkish  
 
 
 ## Chinese 
