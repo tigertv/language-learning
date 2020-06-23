@@ -16,9 +16,10 @@
   - [Portuguese](#portuguese)
 - Turkic
   - [Turkish](#turkish)
-- Others
+- CJK
   - [Chinese](#chinese)
   - [Japanese](#japanese)
+  - [Korean](#korean)
 
 ## Polyglots
 
@@ -493,4 +494,38 @@ https://www.japandict.com/
 
 https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list   
 https://en.wiktionary.org/wiki/Appendix:Japanese_Swadesh_list_(extended)   
+
+
+## Korean
+
+### Grammar
+
+https://www.howtostudykorean.com/unit1/  
+https://en.wikibooks.org/wiki/Korean  
+https://en.wikipedia.org/wiki/Korean_grammar  
+
+### Characters
+
+https://www.howtostudykorean.com/unit0/  
+https://www.howtostudykorean.com/hanja-unit-1-lessons-1-20/  
+https://www.90daykorean.com/how-to-learn-the-korean-alphabet/  
+https://www.koreanclass101.com/learn-hangul/  
+https://zkorean.com/hangul  
+https://www.fluentu.com/blog/korean/learn-hangul/  
+https://www.optilingo.com/blog/korean/how-to-learn-korean-hangul-in-20-minutes/  
+
+### Dictionaries
+
+https://dict.naver.com/  
+https://dic.daum.net/  
+https://www.ybmallinall.com/  
+https://stdict.korean.go.kr/main/main.do  
+https://opendict.korean.go.kr/dictionary/add  
+https://www.nongsaro.go.kr/portal/ps/psq/psqb/farmTermDicLst.ps  
+
+### Vocabulary
+
+https://en.wiktionary.org/wiki/Appendix:Korean_Swadesh_list  
+https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Korean  
+https://namu.wiki/  
 
