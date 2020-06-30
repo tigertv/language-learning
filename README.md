@@ -64,6 +64,8 @@ https://www.grimmstories.com/
 https://www.andersenstories.com/  
 https://worldstories.org.uk/library  
 https://www.lonweb.org/  
+https://en.wikisource.org/wiki/Main_Page  
+https://en.wikibooks.org/wiki/Main_Page  
 
 
 ### Pronunciation
