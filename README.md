@@ -278,6 +278,8 @@ https://servicios.elpais.com/diccionarios/
 https://es.wiktionary.org/wiki/Wikcionario:Portada  
 https://dem.colmex.mx/  
 https://www.linguee.es/  
+https://www.xn--sinnimo-n0a.es/  
+
 
 ### Vocabulary
 
