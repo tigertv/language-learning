@@ -99,6 +99,7 @@ https://www.bbc.co.uk/bitesize/topics/zk92tfr
 https://deutschlernerblog.de/grammatik-deutsch-lernen/  
 https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm  
 https://www.german-grammar.de/  
+https://www.thegermanproject.com/  
 
 
 ### Verb conjugation
@@ -258,6 +259,7 @@ http://spanish.speak7.com/
 https://ielanguages.com/spanish.html  
 https://www.bbc.com/bitesize/subjects/z4dqxnb  
 http://www.hispanoteca.eu/Gram%C3%A1ticas/GRAMMATIK%20SPANISCH.htm  
+https://www.thespanishexperiment.com/  
 
 
 ### Verb conjugation
@@ -303,6 +305,8 @@ http://parliamoitaliano.altervista.org/
 https://www.lagrammaticaitaliana.it/  
 http://www.grammatica-italiana.it/  
 https://grammatica-italiana.dossier.net/  
+https://www.theitalianexperiment.com/  
+
 
 ### Verb conjugation
 
@@ -338,6 +342,8 @@ https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#Italian
 https://francais.lingolia.com/en/grammar  
 http://french.speak7.com/  
 http://www.frenchlanguageguide.com/grammar/  
+https://www.thefrenchexperiment.com/  
+
 
 ### Verb conjugation
 
