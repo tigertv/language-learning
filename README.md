@@ -417,6 +417,7 @@ http://www.turkishclass.com/turkish/lessons/turkish_classes.php
 https://www.turkishexplained.com/  
 https://en.wikipedia.org/wiki/Turkish_grammar  
 https://cromwell-intl.com/turkish/  
+https://fluentinturkish.com/grammar  
 
 ### Verb conjugation
 
