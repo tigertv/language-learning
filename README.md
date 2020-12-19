@@ -386,6 +386,10 @@ https://fr.wiktionary.org/wiki/Wiktionnaire:Listes_de_fr%C3%A9quence#Fran%C3%A7a
 ### Grammar
 
 http://www.aulete.com.br/site.php?mdl=gramatica  
+https://www.todamateria.com.br/gramatica/  
+https://www.infoescola.com/portugues/  
+https://www.flip.pt/FLiP-On-line/Gramatica  
+
 
 ### Verb conjugation
 
