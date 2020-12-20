@@ -343,6 +343,9 @@ https://francais.lingolia.com/en/grammar
 http://french.speak7.com/  
 http://www.frenchlanguageguide.com/grammar/  
 https://www.thefrenchexperiment.com/  
+https://www.cordial.fr/grammaire/grammaire/GTM_0.htm  
+https://la-conjugaison.nouvelobs.com/regles/grammaire/  
+https://www.espacefrancais.com/grammaire/  
 
 
 ### Verb conjugation
