@@ -200,6 +200,7 @@ https://sv.wikipedia.org/wiki/Svensk_grammatik
 http://www.ordklasser.se/grammatik.php  
 http://blog.lardigsvenska.com/p/grammar.html  
 https://www.worddive.com/grammar/sv/svensk-grammatik/  
+https://learningswedish.se/courses/1/pages/grammar  
 
 ### Verb conjugation
 
