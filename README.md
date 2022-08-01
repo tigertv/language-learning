@@ -101,6 +101,10 @@ https://online-lernen.levrai.de/deutsch-uebungen/regeln_der_grammatik.htm
 https://www.german-grammar.de/  
 https://www.thegermanproject.com/  
 https://www.cafe-lingua.de/deutsche-grammatik/deutsche-grammatik-uebersicht.php  
+https://grammis.ids-mannheim.de/systematische-grammatik  
+https://www.lernhelfer.de/schuelerlexikon/deutsch/kapitel/3-grammatik-und-rechtschreibung  
+https://www.worddive.com/grammar/de/deutsche-grammatik/  
+https://studyflix.de/deutsch/thema/grammatik-498  
 
 
 ### Verb conjugation
