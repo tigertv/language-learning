@@ -379,6 +379,7 @@ https://www.linternaute.fr/dictionnaire/fr/
 https://www.lalanguefrancaise.com/dictionnaire/  
 https://dvlf.uchicago.edu/  
 https://www.le-dictionnaire.com/  
+https://dictionnaire.lerobert.com/  
 
 ### Vocabulary
 
